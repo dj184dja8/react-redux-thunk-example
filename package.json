@@ -1,0 +1,30 @@
+{
+    "name": "react-redux-thunk-example",
+    "version": "0.1.0",
+    "devDependencies": {
+        "babel-eslint": "^10.1.0",
+        "eslint-config-prettier": "^6.11.0",
+        "eslint-plugin-prettier": "^3.1.4",
+        "prettier": "^2.0.5",
+        "react-scripts": "^3.4.0"
+    },
+    "dependencies": {
+        "react": "^16.13.0",
+        "react-dom": "^16.13.0",
+        "react-redux": "^7.2.0",
+        "redux": "^4.0.5",
+        "redux-thunk": "^2.3.0",
+        "redux-thunk-with-error-handler": "^0.1.1"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "lint": "eslint ."
+    },
+    "browserslist": [
+        ">0.2%",
+        "not dead",
+        "not ie <= 11",
+        "not op_mini all"
+    ]
+}
